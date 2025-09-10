@@ -18,7 +18,6 @@ It comes with a clean landing page, a profile viewer, and a profile management p
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Theme-Custom-FF9800?style=for-the-badge&logo=stylelint&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
@@ -37,14 +36,25 @@ It comes with a clean landing page, a profile viewer, and a profile management p
 
 ## 📸 Screenshots
 
-### Landing Page  
-*Introduce your features clearly.*  
+### 🏠 Home Page
+<p align="center">
+  <img src="src/assets/HomeScreenshot.jpeg" alt="Home Page" width="70%"/>
+</p>
 
-### Profile Page  
-*View your profile in a clean, minimal UI.*  
+---
 
-### Manage Page  
-*Easily update and manage profile details.*  
+### 👤 Profile Page
+<p align="center">
+  <img src="src/assets/ProfileScreenshot.jpeg" alt="Profile Page" width="70%"/>
+</p>
+
+---
+
+### ⚙️ Manage Page
+<p align="center">
+  <img src="src/assets/ManageScreenshot1.jpeg" alt="Manage Page - Section 1" width="45%"/>
+  <img src="src/assets/ManageScreenshot2.jpeg" alt="Manage Page - Section 2" width="45%"/>
+</p>
 
 ---
 
@@ -109,5 +119,5 @@ PROFINA/
 
 👨‍💻 Author
 
-Developed by Mohammed Rayyan 🚀
+Developed by Mohammed Rayyan 🚀 <br/>
 For feedback and suggestions, feel free to connect!

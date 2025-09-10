@@ -16,8 +16,8 @@ function App() {
 
       <Routes>
         <Route path="/" element={<Home />}/>
-        <Route path="/ProfilePage" element={<Profile />}/>
-        <Route path="/ManagePage" element={<Manage />}/>
+        <Route path="/Profile" element={<Profile />}/>
+        <Route path="/Manage" element={<Manage />}/>
     </Routes>
     </Router>
   )

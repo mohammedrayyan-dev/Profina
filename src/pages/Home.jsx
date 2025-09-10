@@ -52,7 +52,7 @@ function Home() {
         <Button
         variant= "homeButtons"
         component={Link}
-        to="/ProfilePage"
+        to="/Profile"
         sx={{
           mt: { xs: 3, sm: 5 },
           fontSize: { xs: "13px", sm: "16px", md: "18px" },  // text size
