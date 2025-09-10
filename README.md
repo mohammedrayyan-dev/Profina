@@ -1,17 +1,113 @@
-<<<<<<< HEAD
-# Profina
-Profina is a digital profile management platform that allows users to view, edit, and manage their personal or professional profiles in a modern and intuitive way. It centralizes user data such as profile information, contact details, and making it easy to maintain an up-to-date digital identity.
-=======
-# React + Vite
+<p align="center">
+  <img src="/public/favicons/favicon-180x180.png" alt="Profina Logo" width="200"/>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Profina
 
-Currently, two official plugins are available:
+**Profina** is a modern, lightweight web application that lets you **view and manage your digital profile seamlessly**.  
+It comes with a clean landing page, a profile viewer, and a profile management panel — all built with **React.js** and **Material-UI** for a sleek, responsive user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo:** [profina.vercel.app](https://profina.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> d121827 (version1)
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme-Custom-FF9800?style=for-the-badge&logo=stylelint&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## ✨ Features
+
+- 🎨 **Landing Page** – Showcases the purpose and features of Profina.  
+- 👤 **Profile Page** – Displays user profile information in a **read-only view**.  
+- 🛠 **Manage Page** – Edit and update profile details in real time, which automatically reflects on the profile page.  
+- 🎭 **Custom Theme Support** – App-wide theming with Material-UI for consistent styling, dark/light support, and scalable design.  
+- ⚡ **Responsive UI** – Optimized for desktop and mobile with Material-UI components.  
+- 🚀 **Deployed on Vercel** – Instant deployment and smooth performance.  
+
+---
+
+## 📸 Screenshots
+
+### Landing Page  
+*Introduce your features clearly.*  
+
+### Profile Page  
+*View your profile in a clean, minimal UI.*  
+
+### Manage Page  
+*Easily update and manage profile details.*  
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository and install dependencies:
+
+```bash
+
+# Clone this repository
+git clone https://github.com/your-username/profina.git
+
+# Navigate into the project folder
+cd profina
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+
+```
+Your app will be live at http://localhost:3000/
+
+---
+
+📦 Project Structure
+
+```bash
+
+PROFINA/
+├── node_modules/
+├── public/
+│   ├── favicons/
+│      ├── favicon-16x16.png
+│      ├── favicon-32x32.png
+│      ├── favicon-48x48.png
+│      └── favicon-180x180.png      
+├── src/
+│   ├── assets/
+│   │   └── ProfinaLogo.png  
+│   ├── components/
+│   │   └── Navbar.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Manage.jsx
+│   │   └── Profile.jsx
+│   ├── theme/
+│   │   └── theme.js
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+└── package.json
+
+```
+---
+
+👨‍💻 Author
+
+Developed by Mohammed Rayyan 🚀
+For feedback and suggestions, feel free to connect!

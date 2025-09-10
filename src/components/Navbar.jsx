@@ -20,8 +20,8 @@ import { Link, useLocation } from "react-router-dom"
 const drawerWidth = 200;
 const navItems = [
   { label: "Home", path: "/" },
-  { label: "Profile", path: "/ProfilePage" },
-  { label: "Manage", path: "/ManagePage"}
+  { label: "Profile", path: "/Profile" },
+  { label: "Manage", path: "/Manage"}
 ]
 
 function Navbar(props) {
