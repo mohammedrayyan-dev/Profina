@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="/public/favicons/favicon-180x180.png" alt="Profina Logo" width="200"/>
+  <img src="/public/favicons/favicon-180x180.png" alt="Profina Logo" height="150" width="150"/>
 </p>
 
-# 🌐 Profina
+# 👤 Profina
 
 **Profina** is a modern, lightweight web application that lets you **view and manage your digital profile seamlessly**.  
 It comes with a clean landing page, a profile viewer, and a profile management panel — all built with **React.js** and **Material-UI** for a sleek, responsive user experience.
@@ -65,10 +65,10 @@ Clone the repository and install dependencies:
 ```bash
 
 # Clone this repository
-git clone https://github.com/your-username/profina.git
+git clone https://github.com/mohammedrayyan-dev/Profina.git
 
 # Navigate into the project folder
-cd profina
+cd Profina
 
 # Install dependencies
 npm install
@@ -88,22 +88,12 @@ Your app will be live at http://localhost:3000/
 PROFINA/
 ├── node_modules/
 ├── public/
-│   ├── favicons/
-│      ├── favicon-16x16.png
-│      ├── favicon-32x32.png
-│      ├── favicon-48x48.png
-│      └── favicon-180x180.png      
+│   ├── favicons/    
 ├── src/
 │   ├── assets/
-│   │   └── ProfinaLogo.png  
 │   ├── components/
-│   │   └── Navbar.jsx
 │   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Manage.jsx
-│   │   └── Profile.jsx
 │   ├── theme/
-│   │   └── theme.js
 │   ├── App.css
 │   ├── App.jsx
 │   ├── index.css
@@ -119,5 +109,4 @@ PROFINA/
 
 👨‍💻 Author
 
-Developed by Mohammed Rayyan 🚀 <br/>
-For feedback and suggestions, feel free to connect!
+Developed by Mohammed Rayyan 🚀
