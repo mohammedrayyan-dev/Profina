@@ -2,12 +2,12 @@
   <img src="/public/favicons/favicon-180x180.png" alt="Profina Logo" height="150" width="150"/>
 </p>
 
-# 👤 Profina
+# Profina — Profile Editor UI
 
-**Profina** is a modern, lightweight web application that lets you **view and manage your digital profile seamlessly**.  
-It comes with a clean landing page, a profile viewer, and a profile management panel — all built with **React.js** and **Material-UI** for a sleek, responsive user experience.
+**Profina** is a lightweight frontend web application for viewing and managing a digital user profile.  
+It includes a landing page, profile viewer, and profile management interface, built using **React.js** and **Material UI** with a focus on clean layout, component structure, and UI interactions.
 
-🔗 **Live Demo:** [profina.vercel.app](https://profina.vercel.app/)
+🔗 **Live Demo:** https://profina.vercel.app/
 
 ---
 
@@ -21,48 +21,35 @@ It comes with a clean landing page, a profile viewer, and a profile management p
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- 🎨 **Landing Page** – Showcases the purpose and features of Profina.  
-- 👤 **Profile Page** – Displays user profile information in a **read-only view**.  
-- 🛠 **Manage Page** – Edit and update profile details in real time, which automatically reflects on the profile page.  
-- 🎭 **Custom Theme Support** – App-wide theming with Material-UI for consistent styling, dark/light support, and scalable design.  
-- ⚡ **Responsive UI** – Optimized for desktop and mobile with Material-UI components.  
-- 🚀 **Deployed on Vercel** – Instant deployment and smooth performance.  
+- **Landing Page** – Introduces the purpose and structure of the application  
+- **Profile Page** – Displays user profile details in a read-only format  
+- **Manage Profile Page** – Allows editing and updating profile data with immediate UI updates  
+- **Component-Based UI** – Structured React components for maintainability  
+- **Responsive Design** – Optimized for desktop and mobile screens  
+- **Deployment** – Hosted on Vercel for fast builds and delivery  
 
 ---
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+### Home Page
 <p align="center">
   <img src="src/assets/HomeScreenshot.jpeg" alt="Home Page" width="70%"/>
 </p>
 
----
-
-### 👤 Profile Page
+### Profile Page
 <p align="center">
-  <img src="src/assets/ProfileScreenshot.jpeg" alt="Profile Page" width="70%"/>
-</p>
-
----
-
-### ⚙️ Manage Page
-<p align="center">
-  <img src="src/assets/ManageScreenshot1.jpeg" alt="Manage Page - Section 1" width="45%"/>
-  <img src="src/assets/ManageScreenshot2.jpeg" alt="Manage Page - Section 2" width="45%"/>
+  <img src="src/assets/ManageScreenshot1.jpeg" alt="Editing Page" width="70%"/>
 </p>
 
 ---
 
 ## ⚙️ Installation & Setup
 
-Clone the repository and install dependencies:
-
 ```bash
-
-# Clone this repository
+# Clone the repository
 git clone https://github.com/mohammedrayyan-dev/Profina.git
 
 # Navigate into the project folder
@@ -72,39 +59,15 @@ cd Profina
 npm install
 
 # Start development server
-npm start
+npm run dev
 
 ```
-Your app will be live at http://localhost:3000/
+The app will be available at: 
+👉 http://localhost:5173
 
----
-
-📦 Project Structure
-
-```bash
-
-PROFINA/
-├── node_modules/
-├── public/
-│   ├── favicons/    
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── theme/
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-└── package.json
-
-```
 ---
 
 👨‍💻 Author
 
-Developed by Mohammed Rayyan 🚀
+**Mohammed Rayyan** <br />
+Frontend Developer
