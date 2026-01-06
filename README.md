@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/favicons/favicon-180x180.png" alt="Profina Logo" height="150" width="150"/>
+  <img src="/src/assets/ProfinaLogo.png" alt="Profina Logo" height="150" width="150"/>
 </p>
 
 # Profina — Profile Editor UI
@@ -34,14 +34,14 @@ It includes a landing page, profile viewer, and profile management interface, bu
 
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 <p align="center">
-  <img src="src/assets/HomeScreenshot.jpeg" alt="Home Page" width="70%"/>
+  <img src=".github/assets/HomePage.png" alt="Home Page" width="70%"/>
 </p>
 
-### Profile Page
+### 💻 Manage Page
 <p align="center">
-  <img src="src/assets/ManageScreenshot1.jpeg" alt="Editing Page" width="70%"/>
+  <img src=".github/assets/ManagePage.png" alt="Editing Page" width="70%"/>
 </p>
 
 ---
